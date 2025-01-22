@@ -4,4 +4,4 @@ Full-Stack Web Development Practice: A comprehensive repository for learning and
 
 Thanks to the content provided by Udemy instructor Dr. Angela Yu.
 
-I will be referring to the content in Udemy course --> [text](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=ST18MT12125)
+I will be referring to the content in Udemy course --> [Udemy Course for Web Development](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=ST18MT12125)
